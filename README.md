@@ -27,9 +27,10 @@
 
 ⭐ **Favoritar este perfil para acompanhar meus projetos!**
 
-![Aze-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aze-Dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aze-Dev&show_icons=true&theme=radical" alt="Aze-Dev's GitHub stats" style="max-width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical" alt="Top Langs" style="max-width: 50%;">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aze-Dev/Aze-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation">
