@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Matheus Azeredo]!
+👋 Olá, sou Matheus Azeredo!
 
 🎓🚀 **Full Stack Web Developer**
 
@@ -25,13 +25,12 @@
 - Apaixonado por resolver problemas complexos e aprender novas tecnologias.
 - Sempre em busca de novas oportunidades para colaborar em projetos empolgantes.
 
----
-
 ⭐ **Favoritar este perfil para acompanhar meus projetos!**
 
 ![Aze-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aze-Dev&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical)
 
-![GitHub Snake Animation](https://github.com/Aze-Dev/Aze-Dev/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aze-Dev/Aze-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
