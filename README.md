@@ -1,18 +1,5 @@
 👋 Olá, sou Matheus Azeredo!
 
-<a href="mailto:matheus.azeredo@hotmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/>
-</a>
-<a href="https://wa.me/5548998033577">
-  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/>
-</a>
-<a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/matheusaazeredo/">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-</a>
-
 🎓🚀 **Full Stack Web Developer**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -28,8 +15,6 @@
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-📫 **Como me encontrar:**
-
 ✨ **Fun facts:**
 - Apaixonado por resolver problemas complexos e aprender novas tecnologias.
 - Sempre em busca de novas oportunidades para colaborar em projetos empolgantes.
@@ -39,3 +24,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aze-Dev&show_icons=true&theme=radical" alt="Aze-Dev's GitHub stats" style="max-width: 50%, margin-right: 5rem;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical" alt="Top Langs" style="max-width: 50%;">
 
+<a href="mailto:matheus.azeredo@hotmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/>
+</a>
+<a href="https://wa.me/5548998033577">
+  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/>
+</a>
+<a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/matheusaazeredo/">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+</a>
