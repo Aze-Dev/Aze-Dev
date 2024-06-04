@@ -32,6 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical" alt="Top Langs" style="max-width: 50%;">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aze-Dev/Aze-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aze-Dev&theme=react-dark)
+
+![GitHub Snake Animation](https://github.com/Aze-Dev/Aze-Dev/blob/output/github-contribution-grid-snake.svg)
