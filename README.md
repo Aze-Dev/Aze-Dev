@@ -27,7 +27,7 @@
 
 ⭐ **Favoritar este perfil para acompanhar meus projetos!**
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 30px">
   <img src="https://github-readme-stats.vercel.app/api?username=Aze-Dev&show_icons=true&theme=radical" alt="Aze-Dev's GitHub stats" style="max-width: 50%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical" alt="Top Langs" style="max-width: 50%;">
 </div>
