@@ -1,4 +1,4 @@
-👋 Olá, sou Matheus Azeredo!
+👋 Bem vindos, sou Matheus Azeredo!
 
 🎓🚀 **Full Stack Web Developer**
 
