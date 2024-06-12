@@ -11,10 +11,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🌱 **Atualmente aprendendo:**
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ⭐ **Favoritar este perfil para acompanhar meus projetos!**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aze-Dev&layout=compact&theme=radical" alt="Top Langs" style="max-width: 50%;">
