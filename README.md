@@ -4,9 +4,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Aze-Dev/Aze-Dev/edit/main/README.md)
 
 🌟 Sobre / About
+
 **PT-BR:** Desenvolvedor Fullstack com experiência em desenvolvimento web, backend e fullstack. Apaixonado por resolver problemas complexos e aplicar pensamento lógico para criar soluções eficientes e escaláveis. Proficiente em diversas tecnologias e ferramentas, com um forte foco em APIs REST e práticas ágeis como Scrum.
 
-**EN:** Fullstack developer with experience in web development, backend, and fullstack. Passionate about solving complex problems and applying logical thinking to create efficient and scalable solutions. Proficient in various technologies and tools, with a strong focus on REST APIs and agile practices such as Scrum.
+**EN:** _Fullstack developer with experience in web development, backend, and fullstack. Passionate about solving complex problems and applying logical thinking to create efficient and scalable solutions. Proficient in various technologies and tools, with a strong focus on REST APIs and agile practices such as Scrum._
 
 🛠️ Competências / Skills
 
@@ -29,8 +30,9 @@ Desenvolvimento Fullstack / Fullstack Development
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
 
 Resolução de Problemas / Problem Solving
-- 🚀 **PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes.  
-  **EN:** Applying logical and analytical thinking to find effective solutions.
+- 🚀 **PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes.
+-   
+  **EN:** _Applying logical and analytical thinking to find effective solutions._
 
 API REST
 - ![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white)
@@ -57,13 +59,13 @@ Outras Competências / Other Skills
 - Revisão de código
 
 **EN:**
-- System and API development
-- MSQL and NoSQL databases
-- Requirements analysis
-- Object-oriented programming (OOP)
-- Logical programming
-- Effective communication and technical skills
-- Code review
+- _System and API development_
+- _MSQL and NoSQL databases_
+- _Requirements analysis_
+- _Object-oriented programming (OOP)_
+- _Logical programming_
+- _Effective communication and technical skills_
+- _Code review_
 
 📫 Contato / Contact
 - **Email**: matheus.azeredo@hotmail.com
