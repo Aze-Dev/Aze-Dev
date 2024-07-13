@@ -22,16 +22,16 @@ Desenvolvimento Fullstack / Fullstack Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
 
-Resolução de Problemas / Problem Solving
-- 🚀 **PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes.
--   
-  **EN:** _Applying logical and analytical thinking to find effective solutions._
+🚀 Resolução de Problemas / Problem Solving
+
+**PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes. 
+ **EN:** _Applying logical and analytical thinking to find effective solutions._
 
 API REST
-- ![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white)
 
 Testes Unitários / Unit Testing
-- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 Ferramentas e Tecnologias / Tools and Technologies
 
