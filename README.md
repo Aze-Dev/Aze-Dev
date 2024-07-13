@@ -29,9 +29,11 @@ Desenvolvimento Fullstack / Fullstack Development
 **EN:** _Applying logical and analytical thinking to find effective solutions._
 
 API REST
+
 ![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white)
 
 Testes Unitários / Unit Testing
+
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 Ferramentas e Tecnologias / Tools and Technologies
