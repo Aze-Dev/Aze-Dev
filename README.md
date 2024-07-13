@@ -24,8 +24,9 @@ Desenvolvimento Fullstack / Fullstack Development
 
 🚀 Resolução de Problemas / Problem Solving
 
-**PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes. 
- **EN:** _Applying logical and analytical thinking to find effective solutions._
+**PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes.
+
+**EN:** _Applying logical and analytical thinking to find effective solutions._
 
 API REST
 ![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white)
