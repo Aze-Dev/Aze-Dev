@@ -6,10 +6,9 @@
   </a>&nbsp;
   <a href="https://github.com/Aze-Dev">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
-  </a href="">
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
- <a>
-    
+  </a >
+  <a href="https://stackoverflow.com/users/26644911/matheus-azeredo">   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="50"/>
   </a>
 
 </p>
