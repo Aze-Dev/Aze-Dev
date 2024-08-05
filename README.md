@@ -7,7 +7,10 @@
   <a href="https://github.com/Aze-Dev">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
   </a >
-  <a href="https://stackoverflow.com/users/26644911/matheus-azeredo">   
+  <a href="https://stackoverflow.com/users/26644911/matheus-azeredo">
+    
+   <i class="devicon-github-original"></i>
+          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="50"/>
   </a>
 
