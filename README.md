@@ -19,13 +19,10 @@
   </strong>
 </p>
 
-<h3 align="center">🛠️ Skills</h3>
+<h3 align="center">🛠️ Skills</h3><br>
 
 <p align="center">
   <strong>Front-End Stacks</strong><br>
-  <a>
-    
-  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
