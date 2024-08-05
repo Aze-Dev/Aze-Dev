@@ -19,7 +19,7 @@
   </strong>
 </p>
 
-<h3 style="text-align: center;">🛠️ Skills</h3>
+<h3 align="center">🛠️ Skills</h3>
 
 <p align="center">
   <strong>Front-End Stacks</strong><br>
