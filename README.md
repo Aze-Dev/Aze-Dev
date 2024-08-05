@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>&nbsp;
   <a href="https://github.com/Aze-Dev">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
