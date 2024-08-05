@@ -2,18 +2,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>&nbsp;
   <a href="https://github.com/Aze-Dev">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
   </a >
   <a href="https://stackoverflow.com/users/26644911/matheus-azeredo">
-    
-   <i class="devicon-github-original"></i>
-          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="50"/>
   </a>
-
 </p>
 
 <h3 align="center">🌟 Sobre / About</h3>
