@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
-  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>&nbsp;
   <a href="https://github.com/Aze-Dev">
