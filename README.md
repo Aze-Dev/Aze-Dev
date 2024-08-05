@@ -1,5 +1,6 @@
 <h3 align="center">👨‍💻 Matheus Azeredo - Fullstack Developer</h3>
-<p align="center">
+<p align="center">![git](https://github.com/user-attachments/assets/0779e481-7d95-4476-8c12-bfbb405a03cc)
+
   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" />
   </a>&nbsp;
