@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">👨‍💻 Matheus Azeredo - Fullstack Developer</h3>
+<h3 align: center;">👨‍💻 Matheus Azeredo - Fullstack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 style="text-align: center;">🌟 About</h3>
+<h3 align: center;">🌟 About</h3>
 
 <p align="center">
   <strong> Fullstack developer passionate about tackling complex challenges and applying logical thinking to create efficient and scalable solutions. I have a strong focus on RESTful API development and embrace agile practices like Scrum, Kanban, Lean, etc.
