@@ -22,7 +22,9 @@
 <h3 style="text-align: center;">🛠️ Skills</h3>
 
 <p align="center">
-  <strong> - Front-End Stacks</strong><br>
+  <strong>Front-End Stacks</strong><br>
+  <a>
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
@@ -33,7 +35,7 @@
 </p>
 
 <p align="center">
-  <strong> - Back-End Stacks</strong><br>
+  <strong>Back-End Stacks</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" />
@@ -44,13 +46,13 @@
 </p>
 
 <p align="center">
-  <strong> - Testing</strong><br>
+  <strong>Testing</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50" />
 </p>
 
 <p align="center">
-  <strong> - Tools and Technologies</strong><br>
+  <strong>Tools and Technologies</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="50" />
