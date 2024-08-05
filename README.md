@@ -1,63 +1,70 @@
-👨‍💻 Matheus Azeredo - Desenvolvedor Fullstack / Fullstack Developer
+<h3 align="center">👨‍💻 Matheus Azeredo - Desenvolvedor Fullstack / Fullstack Developer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-azeredo-89bbb7279/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Aze-Dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>&nbsp;
+  <a href="https://github.com/Aze-Dev">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
+  </a>
+</p>
 
-🌟 Sobre / About
+<h3 align="center">🌟 Sobre / About</h3>
 
-**PT-BR:** Desenvolvedor Fullstack com experiência em Java/Spring e JavaScript/React, além de design em Figma. Apaixonado por resolver problemas complexos e aplicar pensamento lógico para criar soluções eficientes e escaláveis. Proficiente em diversas tecnologias e ferramentas, com um forte foco em APIs REST e práticas ágeis como Scrum.
+<p><strong>PT-BR:</strong> Desenvolvedor Fullstack com experiência em Java/Spring e JavaScript/React, além de design em Figma. Apaixonado por resolver problemas complexos e aplicar pensamento lógico para criar soluções eficientes e escaláveis. Proficiente em diversas tecnologias e ferramentas, com um forte foco em APIs REST e práticas ágeis como Scrum.</p>
 
-**EN:** _Fullstack developer with expertise in Java/Spring and JavaScript/React, along with Figma design skills. Passionate about solving complex problems and applying logical thinking to create efficient and scalable solutions. Proficient in various technologies and tools, with a strong focus on REST APIs and agile practices such as Scrum._
+<p><strong>EN:</strong> _Fullstack developer with expertise in Java/Spring and JavaScript/React, along with Figma design skills. Passionate about solving complex problems and applying logical thinking to create efficient and scalable solutions. Proficient in various technologies and tools, with a strong focus on REST APIs and agile practices such as Scrum._</p>
 
-🛠️ Competências / Skills
+<h3 align="center">🛠️ Competências / Skills</h3>
 
-Desenvolvimento Web / Web Development
+<p align="center">
+  <strong>Desenvolvimento Web / Web Development</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p align="center">
+  <strong>Desenvolvimento Backend / Backend Development</strong><br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
-Desenvolvimento Backend / Backend Development
+<h3 align="center">🚀 Resolução de Problemas / Problem Solving</h3>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
+<p><strong>PT-BR:</strong> Aplicação de pensamento lógico e analítico para encontrar soluções eficazes.</p>
 
+<p><strong>EN:</strong> _Applying logical and analytical thinking to find effective solutions._</p>
 
-🚀 Resolução de Problemas / Problem Solving
+<p align="center">
+  <strong>API REST</strong><br>
+  <img src="https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white" alt="API">
+</p>
 
-**PT-BR:** Aplicação de pensamento lógico e analítico para encontrar soluções eficazes.
+<p align="center">
+  <strong>Testes Unitários / Unit Testing</strong><br>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit">
+</p>
 
-**EN:** _Applying logical and analytical thinking to find effective solutions._
+<p align="center">
+  <strong>Ferramentas e Tecnologias / Tools and Technologies</strong><br>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"> 
+  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Framework"> 
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"> 
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" alt="Scrum">
+</p>
 
-API REST
+<h3 align="center">📫 Contato / Contact</h3>
 
-![API](https://img.shields.io/badge/API-009688?style=flat&logo=api&logoColor=white)
+<p align="center">
+  <strong>Email:</strong> matheus.azeredo@hotmail.com<br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">Matheus Azeredo</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/Aze-Dev">Aze-Dev</a>
+</p>
 
-Testes Unitários / Unit Testing
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-
-Ferramentas e Tecnologias / Tools and Technologies
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-
-Outras Competências / Other Skills
-
-**PT-BR:**
-- Desenvolvimento de sistemas e API
-- Banco de dados MSQL e NoSQL
-- Análise de requisitos
-- Programação orientada a objetos (POO)
-- Programação lógica
-- Comunicação eficaz e habilidades técnicas
-- Revisão de código
-
-**EN:**
-- _System and API development_
-- _MSQL and NoSQL databases_
-- _Requirements analysis_
-- _Object-oriented programming (OOP)_
-- _Logical programming_
-- _Effective communication and technical skills_
-- _Code review_
-
-📫 Contato / Contact
-- **Email**: matheus.azeredo@hotmail.com
-- **LinkedIn**: [Matheus Azeredo](https://www.linkedin.com/in/matheus-azeredo-89bbb7279/)
-- **GitHub**: [Aze-Dev](https://github.com/Aze-Dev)
