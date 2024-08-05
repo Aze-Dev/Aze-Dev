@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/matheus-azeredo-89bbb7279/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>&nbsp;
-  <a href="https://github.com/Aze-Dev">
-      <img class="devicon-github-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
+  <a class="devicon-github-original" href="https://github.com/Aze-Dev">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
   </a >
   <a href="https://stackoverflow.com/users/26644911/matheus-azeredo">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="50"/>
