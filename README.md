@@ -18,9 +18,9 @@
   <strong> Fullstack developer passionate about tackling complex challenges and applying logical thinking to create efficient and scalable solutions. I have a strong focus on RESTful API development and embrace agile practices like Scrum, Kanban, Lean, etc.
   </strong>
 </p>
-
-<h3 align="center">🛠️ Skills</h3><br>
-
+<br>
+<h3 align="center">🛠️ Skills</h3>
+<br>
 <p align="center">
   <strong>Front-End Stacks</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
 </p>
-
+<br>
 <p align="center">
   <strong>Back-End Stacks</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" />
@@ -42,13 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
 </p>
-
+<br>
 <p align="center">
   <strong>Testing</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50" />
 </p>
-
+<br>
 <p align="center">
   <strong>Tools and Technologies</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" />
@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" />
 </p>
-
+<br>
 <h3 style="text-align: center;">📫 Contact</h3>
 
 <p align="center">
