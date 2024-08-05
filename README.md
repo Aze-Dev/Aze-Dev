@@ -5,7 +5,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>&nbsp;
   <a href="https://github.com/Aze-Dev">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
   </a>
 </p>
 
